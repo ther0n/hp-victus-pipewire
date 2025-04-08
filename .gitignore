@@ -1,0 +1,4 @@
+src/
+gpd-pocket-4-pipewire/
+*.tar.zst
+pkg/
